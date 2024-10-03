@@ -36,7 +36,8 @@ The Bank Management System is a comprehensive solution to streamline banking ope
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/bank-management-system.git
+   git clone https://github.com/Vishruth008/BankManagementSystem.git
+
    ```
 2. Navigate to the project directory:
    ```
